@@ -15,7 +15,7 @@ int main(void)
     Sum = a + b;
     Pro = a*b;
     Diff = a-b;
-    Qou = (float)a/b;
+    Qou = a/b;
     printf("Sum = %d\n", Sum);
     printf("Difference = %d\n", Diff);
     printf("Product = %d\n", Pro);
