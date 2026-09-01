@@ -1,5 +1,5 @@
 /* Author: XYZ
- Date: 06-08-26
+ Date: 12-08-26
  Description:
  to find if the year is leap year or not*/
 #include <stdio.h>
