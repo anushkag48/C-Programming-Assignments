@@ -1,4 +1,4 @@
-/* Author: XYZ
+﻿/* Author: XYZ
  Date: 01-09-26
  Description:
  to find if the input is uppercase, lowercase, digit or special character*/
