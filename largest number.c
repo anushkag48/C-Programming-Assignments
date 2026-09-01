@@ -1,7 +1,7 @@
 /* Author: XYZ
  Date: 06-08-26
  Description:
- to find if the no. is even or odd*/
+ to find if the number is even or odd*/
 #include <stdio.h>
 
 int main(void)
