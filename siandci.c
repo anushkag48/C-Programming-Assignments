@@ -1,6 +1,6 @@
 
 /* Author: XYZ
- Date: 06-08-26
+ Date: 10-08-26
  Description:
  calc the SI and CI*/
 #include <stdio.h>
