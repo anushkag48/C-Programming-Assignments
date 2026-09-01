@@ -1,7 +1,7 @@
 /* Author: XYZ
  Date: 06-08-26
  Description:
- to find if the input is uppercase, lowercase, digit or speial character*/
+ to find if the input is uppercase, lowercase, digit or special character*/
 #include <stdio.h>
 
 int main(void)
