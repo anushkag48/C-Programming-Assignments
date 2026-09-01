@@ -1,6 +1,6 @@
 
 /* Author: XYZ
- Date: 06-08-26
+ Date: 07-08-26
  Description:
  calc the sum of two numbers*/
 #include <stdio.h>
