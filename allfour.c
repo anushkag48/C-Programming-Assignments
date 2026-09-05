@@ -6,6 +6,7 @@
 
 int main(void)
 {
+ 
     int a=0,b=0,Sum,Pro,Diff;
     float Qou;
     printf("enter the first number\n");
