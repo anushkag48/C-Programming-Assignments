@@ -1,5 +1,5 @@
 /* Author: XYZ
- Date: 07-08-26
+ Date: 06-08-26
  Description:
  to find if the no. is even or odd*/
 #include <stdio.h>
