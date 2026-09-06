@@ -1,18 +1,23 @@
 /* Author: XYZ
- Date: 06-08-26
- Description:
- calc the area and perimeter of rectangle*/
+   Date: 06-09-26
+   Description: Print a pattern of 5 rows and 5 stars
+*/
+
 #include <stdio.h>
+
 int main(void)
 {
-    int b=0,l=0,area,peri;
-    printf("enter the lenght of a rectangle\n");
-    scanf("%d",&l);
-    printf("enter the breadth of a rectangle\n");
-    scanf("%d",&b);
-    area = l * b;
-    peri = 2*(l+b);
-    printf("area of rectangle=%d\n", area);
-    printf("peri of rectanglr=%d\n", peri);
-   // return 0;
+    int i, j;
+
+    for (i = 1; i <= 5; i++)
+    {
+        for (j = 1; j <= 5; j++)
+        {
+            printf("*");
+        }
+
+        printf("\n");
+    }
+
+    return 0;
 }
